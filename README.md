@@ -8,6 +8,7 @@ To classify a new example using a decision tree, we start at the root of the tre
 
 This project uses a decision tree to predict which medication is most likely to be effective for a new patient based on the historical response data. A trained decision tree is used to predict the medication that is most likely to be effective based on the patient's features.
 <br>
+<br>
 
 
 ## 📝 Dataset Description
